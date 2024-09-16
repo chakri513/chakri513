@@ -63,6 +63,6 @@ Created a system using cameras to track ladle movement in steel plants, improvin
 - 📧 Email: 21ht1a0513c@gmail.com
 - 📱 Phone: 8074691024
 - 📍 Location: Guntur
-- 💼 LinkedIn: [Profile Link]
+- 💼 LinkedIn: [https://www.linkedin.com/in/chakradharreddy-bijjamula/]
 
 Always eager to learn and take on new challenges in the world of technology! Let's connect and create something amazing together! 🌟
