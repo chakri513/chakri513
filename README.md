@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Chakradhar Reddy Bijjamula
 White Minimalist Profile LinkedIn Banner (3).jpg
+![White Minimalist Profile LinkedIn Banner (3).jpg](URL_TO_YOUR_BANNER_IMAGE)
 
 🎓 BTech student at Chalapathi Institute of Technology (2021-2025)
 
