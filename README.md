@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Chakradhar Reddy Bijjamula
+White Minimalist Profile LinkedIn Banner (3).jpg
 
 🎓 BTech student at Chalapathi Institute of Technology (2021-2025)
 
