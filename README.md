@@ -45,6 +45,17 @@ I'm a passionate and ambitious technology enthusiast, constantly seeking challen
 
 ## 🚧 Projects
 
+### 🧠 AI-Powered Mock Interview App
+Built an AI-powered mock interview app to help job seekers practice and improve for technical interviews.
+
+**Features:**
+
+* Dynamic interview questions using AI/ML (Gemini, BERT-uncased, NLP).
+* Real-time feedback on interview performance.
+* Secure login (JWT, 2FA) for user data protection.
+* FastAPI (Python) backend for speed and scalability.
+
+  
 ### 🆘 Nexus - Disaster Response Web Application
 Developed a web application designed to streamline disaster response efforts by connecting volunteers with victims and efficiently managing emergency resources. It provides a platform for real-time coordination, resource tracking, and organized relief operations.
 
@@ -62,16 +73,6 @@ Developed a web application designed to streamline disaster response efforts by 
 *This screenshot illustrates the resource management dashboard, where volunteers can manage supplies and handle requests.*
 
 
-### 🧠 AI-Powered Mock Interview App
-Built an AI-powered mock interview app to help job seekers practice and improve for technical interviews.
-
-**Features:**
-
-* Dynamic interview questions using AI/ML (Gemini, BERT-uncased, NLP).
-* Real-time feedback on interview performance.
-* Secure login (JWT, 2FA) for user data protection.
-* FastAPI (Python) backend for speed and scalability.
-
 ### 🏭 Automatic Ladle Tracking System - LadelNex
 Created a system using cameras to track ladle movement in steel plants, improving efficiency and safety by detecting unexpected stops.
 
@@ -87,9 +88,10 @@ Created a system using cameras to track ladle movement in steel plants, improvin
 - ⏱️ Participated in a 24-hour National Level Hackathon
 
 ## 📫 How to reach me
-- 📧 Email: 21ht1a0513c@gmail.com
+- 📧 Email: chakradharreddybijjamula@gmail.com
 - 📱 Phone: 8074691024
 - 📍 Location: Guntur
 - 💼 LinkedIn: [https://www.linkedin.com/in/chakradharreddy-bijjamula/]
+- Portfolio: https://chakri513.github.io/
 
 Always eager to learn and take on new challenges in the world of technology! Let's connect and create something amazing together! 🌟
