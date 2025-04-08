@@ -78,6 +78,11 @@ Created a system using cameras to track ladle movement in steel plants, improvin
 
 
 ## 💻 Hackathons
+
+### 🏆 SIH 2024 – **Finalist**
+- 🧑‍💻 Role: Team Member
+- 📝 Description: Worked on building a real-time disaster response system to enhance resource distribution and communication during emergencies.
+
 ### 🏆 National Level Hackathon (SAP)
 - 🧑‍💻 Role: Team Member
 - 🎖️ Outcome: Finalist
