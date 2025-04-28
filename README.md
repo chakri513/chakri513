@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Chakradhar Reddy Bijjamula
-![Chakri_Banner](Chakri_Banner.jpg)
+<!--[Chakri_Banner](Chakri_Banner.jpg)-->
 
 🎓 BTech student at Chalapathi Institute of Technology (2021-2025)
 
