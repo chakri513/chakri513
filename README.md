@@ -48,8 +48,6 @@ Web application connecting volunteers with disaster victims and managing emergen
 - ☁️ **Microsoft Azure Fundamentals**
 - 🔧 **ServiceNow Certified Application Developer (CAD)**
 
-## 📈 GitHub Stats
-![Chakri's GitHub stats](https://github-readme-stats.vercel.app/api?username=chakri513&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced cloud architectures
