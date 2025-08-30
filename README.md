@@ -8,7 +8,7 @@ Currently pursuing BTech at Chalapathi Institute of Technology (2021-2025) | **8
 I'm a passionate Backend Developer and technology enthusiast who believes in using technology to solve real-world problems. Currently working as a Backend Development Intern at Coastal Seven, I specialize in building scalable backend solutions and RESTful APIs. My journey has been marked by hackathon victories and a commitment to creating technology that makes a positive impact on society.
 
 ## 💼 Current Experience
-- 🏢 **Backend Development Intern** at **Coastal Seven** (July 2025 – Present)
+- 🏢 **Backend Development Intern** at **Coastal Seven** (June 2025 – Present)
   - Building and maintaining backend services using Python (FastAPI) and MongoDB
   - Developing RESTful APIs for internal tools and client-facing applications
   - Collaborating with frontend teams to integrate APIs with React applications
